@@ -1,7 +1,7 @@
 # Donate App
 
-![GitHub package.json version](https://img.shields.io/github/package-json/v/yourusername/donate-app)
-![GitHub](https://img.shields.io/github/license/yourusername/donate-app)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/devDudu-21/donate-app)
+![GitHub](https://img.shields.io/github/license/devDudu-21/donate-app)
 
 Este é um aplicativo de doações simples apenas para estudo desenvolvido com Next.js e integrado com o MercadoPago.
 
