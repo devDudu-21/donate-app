@@ -5,7 +5,7 @@ import { useState } from "react";
 import { initMercadoPago, Wallet } from "@mercadopago/sdk-react";
 
 export default function Home() {
-  initMercadoPago("<PUBLIC KEY>");
+  initMercadoPago("<PUBLIC_KEY>");
 
   const [amount, setAmountValue] = useState(0);
   const [preferenceId, setPreferenceId] = useState("");
